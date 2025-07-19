@@ -13,7 +13,6 @@ from PySide6.QtCore import QLocale, QTranslator
 from PySide6.QtWidgets import QApplication
 from View import MainWindow
 
-
 def main():
     """主程序入口"""
     # 创建应用程序
